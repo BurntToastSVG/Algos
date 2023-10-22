@@ -1,0 +1,10 @@
+TERMINAL COMMANDS
+    ls = list all items
+    cd PATHNAME = sends user to location specified in path
+    touch FILENAME = creates new file
+    mkdir FOLDERNAME = creates new folder
+    rm FILENAME = deletes file
+    rm -r FOLDERNAME = deletes folder
+    mv SELECTION LOCATION = moves selected item into chosen location
+    cat FILENAME = reads file
+	nano FILENAME = edits file inside terminal	
